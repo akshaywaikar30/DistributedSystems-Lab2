@@ -1,0 +1,151 @@
+Client:0 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:56:20 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:17
+User-Agent:Chat Room
+lets start voting Sending vote request
+
+Client:1 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:56:25 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+
+Commit
+
+Client:2 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:56:31 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+
+Commit
+
+Client:3 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:56:34 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+
+Commit
+
+Client:0 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:56:31 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:13
+User-Agent:Chat Room
+
+Global Commit
+
+Client:0 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:58:24 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:11
+User-Agent:Chat Room
+again do it Sending vote request
+
+Client:1 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:58:30 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+
+Commit
+
+Client:3 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:58:35 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+
+Commit
+
+Client:2 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:58:38 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:5
+User-Agent:Chat Room
+
+Abort
+
+Client:0 
+POST HTTP/1.1
+Date:Mon, 2 Apr 2018 23:58:35 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:12
+User-Agent:Chat Room
+
+Global Abort
+Client:0 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:32 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:5
+User-Agent:Chat Room
+hello Sending vote request
+
+Client:1 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:37 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:6
+User-Agent:Chat Room
+Commit
+
+Client:1 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:52 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:16
+User-Agent:Chat Room
+Decision_Request
+
+Client:1 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:52 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:13
+User-Agent:Chat Room
+
+Client:2 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:52 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:16
+User-Agent:Chat Room
+Decision_Request
+
+Client:3 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:52 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:16
+User-Agent:Chat Room
+Decision_Request
+
+Client:1 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:56 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:5
+User-Agent:Chat Room
+
+Abort
+
+Client:0 
+POST HTTP/1.1
+Date:Tue, 3 Apr 2018 00:01:52 GMT
+Content-Type:application/x-www-form-urlencoded
+Content-Length:12
+User-Agent:Chat Room
+
+Global Abort

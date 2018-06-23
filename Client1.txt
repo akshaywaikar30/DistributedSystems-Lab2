@@ -1,0 +1,13 @@
+lets start voting Sending vote request
+	Vote Commit
+Global Commit
+
+again do it Sending vote request
+	Vote Commit
+Global Abort
+hello Sending vote request
+	Vote Commit
+abort
+Decision_Request
+Vote Abort
+Global Abort
